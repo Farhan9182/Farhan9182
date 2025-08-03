@@ -49,7 +49,7 @@
 
 ### 📈 GitHub Stats
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhan9182&show_icons=true&theme=radical)
+![Farhan's GitHub stats](https://github-readme-stats-eight-pied-58.vercel.app/api?username=farhan9182&show_icons=true&theme=radical)
 
 ---
 
