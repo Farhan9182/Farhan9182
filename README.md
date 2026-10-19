@@ -10,7 +10,7 @@
 
 - 🎓 Bachelors from Bangalore University (2017–2020)
 - 🎓 Masters from Indira Gandhi National Open University (2022–2024)
-- 💼 Fullstack Developer with 4+ years experience in building scalable web & mobile apps.
+- 💼 Fullstack Developer with 5+ years experience in building scalable web & mobile apps.
 - 🔭 Team Lead at **ADI**, previously at **Bohni**, building tools with React, Node.js, GraphQL, TypeORM, and AWS.
 - 🧠 DSA & System Design enthusiast
 - ⚙️ Focused on performance, architecture & developer tools
